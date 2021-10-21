@@ -14,8 +14,6 @@ En orden de prioridad
 6. Maestría en Calidad, Medio Ambiente, Seguridad y Salud [Ver link](https://www.structuralia.com/formacion/master-calidad-medio-ambiente-seguridad-salud)
 7. Maestría Internacional en Geotecnia y Cimentaciones[Ver link](https://www.structuralia.com/formacion/master-internacional-geotecnia-cimentaciones)
 
-? Maestría en Ingeniería de la Conservación y Explotación de Carreteras
-
 ### Lista Cursos Clave SIN MASTER (MUST)
 1. Procesamiento de minerales en una explotación minera: proceso y productos que se originan
 2. Explotación de minerales: gestión y métodos
