@@ -5,7 +5,7 @@ Lista con informacion sobre planes para futuro
 #### Module numbers
 * :one::two::three::four::five::six::seven::eight::nine:
 #### Status
-* :white_check_mark: = fished
+* :white_check_mark: = finished
 #### Progress Bar
 * ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
 
