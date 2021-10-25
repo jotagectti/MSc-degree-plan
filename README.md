@@ -2,6 +2,12 @@
 Lista con informacion sobre planes para futuro
 
 # *Plan*
+Module numbers
+:one::two::three::four::five::six::seven::eight::nine:
+Status
+:white_check_mark: = fished
+Progress Bar
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/1)
 
 ### Programas de maestria por IKLOX Structralia
 
@@ -13,6 +19,9 @@ En orden de prioridad
 5. Maestría en Infraestructuras inteligentes. Smart Cities [Ver link](https://www.structuralia.com/formacion/master-en-infraestructuras-inteligentes-smart-cities)
 6. Maestría en Calidad, Medio Ambiente, Seguridad y Salud [Ver link](https://www.structuralia.com/formacion/master-calidad-medio-ambiente-seguridad-salud)
 7. Maestría Internacional en Geotecnia y Cimentaciones [Ver link](https://www.structuralia.com/formacion/master-internacional-geotecnia-cimentaciones)
+
+overal progress
+1.:white_check_mark::two::three::white_check_mark::five::six::seven::eight::nine:
 
 ### Lista Cursos Clave SIN MASTER (MUST)
 1. Procesamiento de minerales en una explotación minera: proceso y productos que se originan
@@ -26,3 +35,5 @@ Interes en orden
 4. **Maestría en BIM y Edificios Inteligentes [Link](https://www.structuralia.com/formacion/master-bim-edificios-inteligentes)
 5. Máster BIM aplicado a la Edificación (Revit, Robot, Navisworks, Cost it y Synchro)[Link](https://www.structuralia.com/formacion/master-bim-edificacion)
 6. Máster en Proyecto, Construcción y Mantenimiento de Infraestructuras Eléctricas de Alta tensión [Link](https://www.structuralia.com/formacion/master-en-proyecto-construccion-y-mantenimiento-de-infraestructuras-electricas-de-alta-tension)
+
+[emoji cheat cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
