@@ -32,7 +32,8 @@ En orden de prioridad
 2. Explotación de minerales: gestión y métodos
 3. Hyperloop. Viabilidad económica y legal
 ### Especial
--> Maestría en Inteligencia Artificial[Link](https://www.structuralia.com/formacion/master-inteligencia-artificial-gestion-implantacion-modelos)
+-> Maestría en Inteligencia Artificial [Link](https://www.structuralia.com/formacion/master-inteligencia-artificial-gestion-implantacion-modelos)
+-> Maestría en Inteligencia Artificial y Big Data [Link](https://www.structuralia.com/formacion/master-ia-big-data)
 
 #### OTROS (SI da el tiempo)
 Interes en orden
