@@ -22,11 +22,11 @@ En orden de prioridad
 
 ## Overal Progress
 
-1. Maestría en Inteligencia Artificial y Big Data
+1. Maestría en Inteligencia Artificial y Big Data [Ver Detalles](https://github.com/jotagectti/MSc-Inteligencia-Artificial-y-Big-Data)
 * :white_check_mark::two::three::four::five::six::seven::eight::nine:
-2. Máster en Eficiencia Energética y Energías Renovables
+2. Máster en Eficiencia Energética y Energías Renovables [Ver Detalles](https://github.com/jotagectti/MSc-Eficiencia-Energetica-y-Energias-Renovables)
 * :one::two::three::four::five::six::seven::eight::nine:
-3. Maestría en Big Data y Business Analytics
+3. Maestría en Big Data y Business Analytics [Ver Detalles](https://github.com/jotagectti/MSc-Big-Data-y-Business-Analytics)
 * :white_check_mark::two::three::white_check_mark::five::six::seven::white_check_mark::nine:
 
 ### Lista Cursos Clave SIN MASTER (MUST)
