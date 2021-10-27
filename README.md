@@ -35,8 +35,9 @@ Interes en orden
 1. Maestría en Grandes Proyectos Internacionales Llave en mano. Contract Management y Project Management [Link](https://www.structuralia.com/formacion/master-en-grandes-proyectos-internacionales-llave-en-mano-contract-management-y-project-management) 
 2. Máster en Movilidad inteligente. Smart Mobility [Link](https://www.structuralia.com/formacion/master-en-smart-mobility)
 3. Maestría en gestión del riesgo de desastres y gobernanza climática [Link](https://www.structuralia.com/formacion/master-gestion-riesgo-desastres-y-gobernanza-climatica)
-4. **Maestría en BIM y Edificios Inteligentes [Link](https://www.structuralia.com/formacion/master-bim-edificios-inteligentes)
+4. **(construccion)Maestría en BIM y Edificios Inteligentes [Link](https://www.structuralia.com/formacion/master-bim-edificios-inteligentes)
 5. Máster BIM aplicado a la Edificación (Revit, Robot, Navisworks, Cost it y Synchro)[Link](https://www.structuralia.com/formacion/master-bim-edificacion)
 6. Máster en Proyecto, Construcción y Mantenimiento de Infraestructuras Eléctricas de Alta tensión [Link](https://www.structuralia.com/formacion/master-en-proyecto-construccion-y-mantenimiento-de-infraestructuras-electricas-de-alta-tension)
+7. **(GIS) Maestría en Aplicaciones Operativas de los Drones en Ingeniería [Link](https://www.structuralia.com/formacion/master-en-aplicaciones-operativas-de-los-drones-en-ingenieria)
 
 [emoji cheat cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
