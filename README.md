@@ -27,6 +27,8 @@ En orden de prioridad
 ### Lista Cursos Clave SIN MASTER (MUST)
 1. Procesamiento de minerales en una explotación minera: proceso y productos que se originan
 2. Explotación de minerales: gestión y métodos
+### Especial
+-> Maestría en Inteligencia Artificial[Link](https://www.structuralia.com/formacion/master-inteligencia-artificial-gestion-implantacion-modelos)
 
 #### OTROS (SI da el tiempo)
 Interes en orden
