@@ -22,7 +22,10 @@ En orden de prioridad
 
 ## Overal Progress
 
-1. :white_check_mark::two::three::white_check_mark::five::six::seven::eight::nine:
+1. Maestría en Big Data y Business Analytics
+* :white_check_mark::two::three::white_check_mark::five::six::seven::eight::nine:
+2. Máster en Eficiencia Energética y Energías Renovables
+* :one::two::three::four::five::six::seven::eight::nine:
 
 ### Lista Cursos Clave SIN MASTER (MUST)
 1. Procesamiento de minerales en una explotación minera: proceso y productos que se originan
