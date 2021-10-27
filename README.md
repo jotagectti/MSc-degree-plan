@@ -12,7 +12,7 @@ Lista con informacion sobre planes para futuro
 ### Programas de maestria por IKLOX Structralia
 
 En orden de prioridad
-1. Maestría en Big Data y Business Analytics [Ver link](https://www.structuralia.com/formacion/master-en-big-data-y-business-analytics)
+1. Maestría en Inteligencia Artificial y Big Data [Link](https://www.structuralia.com/formacion/master-ia-big-data)
 2. Máster en Eficiencia Energética y Energías Renovables [Ver link](https://www.structuralia.com/formacion/master-en-eficiencia-energetica-y-energias-renovables)
 3. Maestría MBA en Dirección de Empresas y Gerencia en Proyectos de Ingeniería y Construcción [Ver link](https://www.structuralia.com/formacion/master-mba-en-direccion-de-empresas-y-gerencia-en-proyectos-de-ingenieria-y-construccion)
 4. Maestría en Project Management [Ver link](https://www.structuralia.com/formacion/master-en-project-management)
@@ -33,6 +33,7 @@ En orden de prioridad
 3. Hyperloop. Viabilidad económica y legal
 ### Especial
 -> Maestría en Inteligencia Artificial [Link](https://www.structuralia.com/formacion/master-inteligencia-artificial-gestion-implantacion-modelos)
+-> Maestría en Big Data y Business Analytics [Ver link](https://www.structuralia.com/formacion/master-en-big-data-y-business-analytics)
 -> Maestría en Inteligencia Artificial y Big Data [Link](https://www.structuralia.com/formacion/master-ia-big-data)
 
 #### OTROS (SI da el tiempo)
