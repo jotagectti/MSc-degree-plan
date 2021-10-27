@@ -41,5 +41,6 @@ Interes en orden
 6. Máster en Proyecto, Construcción y Mantenimiento de Infraestructuras Eléctricas de Alta tensión [Link](https://www.structuralia.com/formacion/master-en-proyecto-construccion-y-mantenimiento-de-infraestructuras-electricas-de-alta-tension)
 7. **(GIS) Maestría en Aplicaciones Operativas de los Drones en Ingeniería [Link](https://www.structuralia.com/formacion/master-en-aplicaciones-operativas-de-los-drones-en-ingenieria)
 8. Maestría en Tecnologías Disruptivas en Automoción y Transporte [Link](https://www.structuralia.com/formacion/master-tecnologias-disruptivas-automocion-transporte)
+9. Maestría en Calculo de Estructuras [Link](https://www.structuralia.com/formacion/master-en-calculo-de-estructuras)
 
 [emoji cheat cheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
