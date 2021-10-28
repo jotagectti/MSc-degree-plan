@@ -23,7 +23,9 @@ En orden de prioridad
 6. Maestría en Calidad, Medio Ambiente, Seguridad y Salud [Ver link](https://www.structuralia.com/formacion/master-calidad-medio-ambiente-seguridad-salud)
 7. Maestría Internacional en Geotecnia y Cimentaciones [Ver link](https://www.structuralia.com/formacion/master-internacional-geotecnia-cimentaciones)
 
-## Overal Progress
+# Overal Progress
+
+##Programas
 
 1. Maestría en Inteligencia Artificial y Big Data [Ver Detalles](https://github.com/jotagectti/MSc-Inteligencia-Artificial-y-Big-Data)
 * :white_check_mark::two::three::four::yellow_square::six::seven::eight::nine:
@@ -31,6 +33,10 @@ En orden de prioridad
 * :one::two::three::red_square::five::red_square::seven::eight::red_square:
 3. Maestría en Big Data y Business Analytics [Ver Detalles](https://github.com/jotagectti/MSc-Big-Data-y-Business-Analytics)
 * :white_check_mark::red_square::three::white_check_mark::five::six::yellow_square::white_check_mark::nine:
+
+##Cursos
+
+1. Energía inteligente en las smart cities (Smart Energy):white_check_mark:
 
 ### Lista Cursos Clave SIN MASTER (MUST)
 1. Procesamiento de minerales en una explotación minera: proceso y productos que se originan
