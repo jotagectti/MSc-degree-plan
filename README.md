@@ -28,11 +28,11 @@ En orden de prioridad
 ## Programas
 
 1. Maestría en Inteligencia Artificial y Big Data [Ver Detalles](https://github.com/jotagectti/MSc-Inteligencia-Artificial-y-Big-Data)
-* :white_check_mark::two::three::four::yellow_square::six::seven::eight::nine:
+* :white_check_mark::two::three::four::yellow_square::six::seven::red_square::nine:
 2. Máster en Eficiencia Energética y Energías Renovables [Ver Detalles](https://github.com/jotagectti/MSc-Eficiencia-Energetica-y-Energias-Renovables)
 * :one::two::three::red_square::five::red_square::seven::eight::red_square:
 3. Maestría en Big Data y Business Analytics [Ver Detalles](https://github.com/jotagectti/MSc-Big-Data-y-Business-Analytics)
-* :white_check_mark::red_square::three::white_check_mark::five::six::yellow_square::white_check_mark::nine:
+* :white_check_mark::red_square::red_square::white_check_mark::five::six::yellow_square::white_check_mark::nine:
 
 ## Cursos
 
