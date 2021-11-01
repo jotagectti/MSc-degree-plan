@@ -38,10 +38,12 @@ En orden de prioridad
 
 1. Energía inteligente en las smart cities (Smart Energy):white_check_mark:
 
-### Lista Cursos Clave SIN MASTER (MUST)
-1. Procesamiento de minerales en una explotación minera: proceso y productos que se originan
-2. Explotación de minerales: gestión y métodos
-3. Hyperloop. Viabilidad económica y legal
+### Lista Cursos Clave SIN MASTER (MUST) | Status
+1. Procesamiento de minerales en una explotación minera: proceso y productos que se originan =>:red_square::red_square: 8%
+2. Explotación de minerales: gestión y métodos =>:red_square::red_square: 8%
+3. Hyperloop. Viabilidad económica y legal =>:red_square::red_square: 17%
+4. ArcGIS v15.12 =>:red_square::red_square: 2%
+
 ### Especial
 -> Maestría en Inteligencia Artificial [Link](https://www.structuralia.com/formacion/master-inteligencia-artificial-gestion-implantacion-modelos)
 -> Maestría en Big Data y Business Analytics [Ver link](https://www.structuralia.com/formacion/master-en-big-data-y-business-analytics)
