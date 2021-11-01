@@ -45,9 +45,9 @@ En orden de prioridad
 4. ArcGIS v15.12 =>:red_square::red_square: 2%
 
 ### Especial
--> Maestría en Inteligencia Artificial [Link](https://www.structuralia.com/formacion/master-inteligencia-artificial-gestion-implantacion-modelos)
--> Maestría en Big Data y Business Analytics [Ver link](https://www.structuralia.com/formacion/master-en-big-data-y-business-analytics)
--> Maestría en Inteligencia Artificial y Big Data [Link](https://www.structuralia.com/formacion/master-ia-big-data)
+* -> Maestría en Inteligencia Artificial [Link](https://www.structuralia.com/formacion/master-inteligencia-artificial-gestion-implantacion-modelos)
+* -> Maestría en Big Data y Business Analytics [Ver link](https://www.structuralia.com/formacion/master-en-big-data-y-business-analytics)
+* -> Maestría en Inteligencia Artificial y Big Data [Link](https://www.structuralia.com/formacion/master-ia-big-data)
 
 #### OTROS (SI da el tiempo)
 Interes en orden
